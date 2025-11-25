@@ -14,8 +14,9 @@
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
+            android:elevation="10dp"
             android:layout_height="?attr/actionBarSize"
-            android:background="@color/head"
+            android:background="@color/bgc"
             app:popupTheme="@style/Theme.BuddyShare.PopupOverlay" />
 
     </com.google.android.material.appbar.AppBarLayout>
