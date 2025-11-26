@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="head">#053BEF</color>
     <color name="bgc">#8EA7FA</color>
+    <color name="custom_scanner_laser">#FFCC00</color>
+    <color name="custom_scanner_mask">#BF000000</color>
 </resources>
